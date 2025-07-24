@@ -1,3 +1,10 @@
+/* 
+    Write a java program using swing component to demonstrate the following layout managers
+    a)Flow Layout
+    b)Border Layout
+    c)Grid Layout
+    d)GridBag Layout
+*/
 import javax.swing.*;
 import java.awt.*;
 
